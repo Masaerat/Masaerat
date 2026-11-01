@@ -1,16 +1,48 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Masaerat — Happy all the time. 柔和色调的窗边编程书桌插画" />
+</p>
 
-<!--
-**Masaerat/Masaerat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Masaerat 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Java 后端 · AI 应用探索<br />
+  <sub>把好奇心写进代码，把想法慢慢做成作品。</sub>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/Masaerat?tab=repositories">项目仓库</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Masaerat/autoDiagram">AutoDiagram</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Masaerat/shangting-lease-ywyVersion">智能租房 Agent</a>
+</p>
+
+## 🌿 About me
+
+- 在 Java 后端与 AI 应用之间探索，喜欢把想法放进具体的业务场景。
+- 用项目记录学习：从文档问答、Agent，到流程图生成与知识库交付。
+- 希望写出有用、清晰，也方便持续完善的作品。
+- **Happy all the time.** ☀️
+
+## 🪴 My little workshop
+
+| 项目 | 在做什么 |
+| :--- | :--- |
+| 🏡 **[智能租房 Agent](https://github.com/Masaerat/shangting-lease-ywyVersion)** | 基于尚庭公寓学习项目扩展：将 Java 租赁业务与 Agent、混合 RAG、分层记忆及 MQ 预约通知串起来。 |
+| 🗂️ **[Data Platform](https://github.com/Masaerat/dataPlateform)** | 钉钉知识库文档交付后端，支持异步导出、增量同步与有鉴权的 ZIP 交付包。 |
+| ✏️ **[AutoDiagram](https://github.com/Masaerat/autoDiagram)** | 从文字或音视频转写生成流程图，支持 SVG / PNG 预览及 Draw.io XML 下载。 |
+| 📖 **[Local PDF RAG](https://github.com/Masaerat/RAGdemo)** | 基于 Spring AI 与 Qdrant 的本地 PDF 问答练习，让回答能够追溯到来源片段。 |
+
+## ☁️ Things I'm exploring
+
+**后端与工程** &nbsp; Java · Spring Boot · MySQL · Redis · RabbitMQ · Docker
+
+**AI 应用** &nbsp; Spring AI · RAG · Tool Calling · 向量检索
+
+**工具与界面** &nbsp; TypeScript · React · Node.js · Python
+
+<br />
+
+<p align="center">
+  <sub>Keep learning. Keep building. Stay curious. 🌱</sub>
+</p>
