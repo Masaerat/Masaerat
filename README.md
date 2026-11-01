@@ -19,10 +19,10 @@
 
 ## 🌿 About me
 
-- 在 Java 后端与 AI 应用之间探索，喜欢把想法放进具体的业务场景。
-- 用项目记录学习：从文档问答、Agent，到流程图生成与知识库交付。
-- 希望写出有用、清晰，也方便持续完善的作品。
-- **Happy all the time.** ☀️
+- 🎓 **Education:** Undergraduate studies at **Guangdong University of Technology**, followed by master's studies at **The Hong Kong Polytechnic University**.
+- 💻 **Career goal:** Working toward becoming a backend engineer, one project at a time.
+- 🤖 **Currently learning:** AI agents and AI application development, exploring how to turn ideas into useful tools.
+- 🏀 **Beyond code:** A CP3 fan who enjoys playing basketball, listening to music, and a little K-pop.
 
 ## 🪴 My little workshop
 
