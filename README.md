@@ -6,10 +6,10 @@
 
 ## 🌿 About me
 
-- 🎓 **Education:** Undergraduate studies at **Guangdong University of Technology**, followed by master's studies at **The Hong Kong Polytechnic University**.
-- 💻 **Career goal:** Working toward becoming a backend engineer, one project at a time.
-- 🤖 **Currently learning:** AI agents and AI application development, exploring how to turn ideas into useful tools.
-- 🏀 **Beyond code:** A CP3 fan who enjoys playing basketball, listening to music, and a little K-pop.
+1. 🎓 **Education:** Undergraduate studies at **Guangdong University of Technology**; master's studies at **The Hong Kong Polytechnic University**.
+2. 💻 **Career goal:** Working toward becoming a backend engineer, one project at a time.
+3. 🤖 **Currently learning:** AI agents and AI application development, exploring how to turn ideas into useful tools.
+4. 🏀 **Beyond code:** A CP3 fan who enjoys playing basketball, listening to music, and a little K-pop.
 
 ## 🪴 My little workshop
 
