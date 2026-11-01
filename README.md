@@ -4,19 +4,6 @@
 
 <h1 align="center">Hi, I'm Masaerat 👋</h1>
 
-<p align="center">
-  Java 后端 · AI 应用探索<br />
-  <sub>把好奇心写进代码，把想法慢慢做成作品。</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Masaerat?tab=repositories">项目仓库</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Masaerat/autoDiagram">AutoDiagram</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Masaerat/shangting-lease-ywyVersion">智能租房 Agent</a>
-</p>
-
 ## 🌿 About me
 
 - 🎓 **Education:** Undergraduate studies at **Guangdong University of Technology**, followed by master's studies at **The Hong Kong Polytechnic University**.
